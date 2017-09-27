@@ -4,3 +4,5 @@ Things I need to do
 * take a breath
 
 * have fun
+
+** git commit -m 
